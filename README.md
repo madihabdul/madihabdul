@@ -12,8 +12,8 @@ Interests:
 * Data Science
 * Theory of Mind
 
-Currently Learning:
-* WebGl and 3D Graphics
+Learning:
+* WebGl and 3D graphics
 * Making games in Unity
 * Working with public data and creating dashboards
 * Creating SQL databases for the space colony ARC
