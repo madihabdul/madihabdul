@@ -17,9 +17,6 @@ Currently Learning:
 * Making games in Unity
 * Working with public data and creating dashboards
 * Creating SQL databases for the space colony ARC
-
-Website coming soon!
-
 <!---
 madihabdul/madihabdul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
