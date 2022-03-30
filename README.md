@@ -8,7 +8,7 @@ Experience:
 
 Interests:
 * Full Stack Development
-* Systems Engineering
+* UI/UX Engineering
 * Data Science
 * Theory of Mind
 
