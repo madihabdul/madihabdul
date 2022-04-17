@@ -1,6 +1,7 @@
 I'm Madiha, a junior at Rutgers University - New Brunswick majoring in Computer Science and Cognitive Sciene with a minor in History.
 
 Experience:
+* Software Development Intern @ Nationwide Mutual Insurance
 * Web Development Intern @ Harvard Medical School
 * Data Science Fellow @ Blue Bonnet Data
 * Research Assistant @ Rutgers University Center for Cognitive Science
