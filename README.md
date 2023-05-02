@@ -3,7 +3,6 @@ I'm Madiha, a senior at Rutgers University - New Brunswick majoring in Computer 
 Experience:
 * Software Engineer Intern @ Nationwide Mutual Insurance
 * Data Science Fellow @ Blue Bonnet Data
-* Research Assistant @ Rutgers University Center for Cognitive Science
 * Teaching Assistant @ Rutgers Computer Science
 
 Interests:
