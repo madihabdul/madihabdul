@@ -7,12 +7,10 @@ experience:
 * teaching assistant/lecturer @ rutgers computer science department
 
 interests:
-* cybersecurity
-* critical intelligence
+* cloud & solutions architecture
+* cognitive science
 * the epic of gilgamesh
 
-learning:
-* navigating life after college
 
 <!---
 madihabdul/madihabdul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
