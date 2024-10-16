@@ -1,15 +1,15 @@
-hello, i'm madiha. a recent graduate from rutgers nb with a degree in comp sci and cog sci and a minor in history.
+hello, i'm madiha. currently a senior software engineer and computer science grad student @ georgia tech. i graduated from rutgers new brunswick with a degree in computer science and cognitive science (decision making) and a minor in history.
 
 experience:
-* software engineer @ nationwide mutual insurance company
+* senior software engineer @ nationwide mutual insurance company (2023-present)
 * web dev/digital humanities intern @ rutgers university digital humanities initiative
 * software engineer intern @ nationwide mutual insurance company
 * teaching assistant/lecturer @ rutgers computer science department
 
 interests:
 * cloud & solutions architecture
-* cognitive science
-* the epic of gilgamesh
+* decision making & game theory
+* data engineering
 
 
 <!---
