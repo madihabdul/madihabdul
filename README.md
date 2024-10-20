@@ -1,7 +1,7 @@
 hello, i'm madiha. currently a senior software engineer and computer science grad student @ georgia tech. i graduated from rutgers new brunswick with a degree in computer science and cognitive science (decision making) and a minor in history.
 
 experience:
-* senior software engineer @ nationwide mutual insurance company (2023-present)
+* software engineer @ nationwide mutual insurance company (2023-present)
 * web dev/digital humanities intern @ rutgers university digital humanities initiative
 * software engineer intern @ nationwide mutual insurance company
 * teaching assistant/lecturer @ rutgers computer science department
