@@ -2,9 +2,11 @@ hello, i'm madiha. currently a senior software engineer and computer science gra
 
 experience:
 * software engineer @ nationwide mutual insurance company (2023-present)
-* web dev/digital humanities intern @ rutgers university digital humanities initiative
-* software engineer intern @ nationwide mutual insurance company
-* teaching assistant/lecturer @ rutgers computer science department
+* web dev/digital humanities intern @ rutgers university digital humanities initiative (2023)
+* software engineer intern @ nationwide mutual insurance company (2022)
+* teaching assistant/lecturer @ rutgers computer science department (2021-2023)
+* neurolinguistics/natural language processing research assistant @ rutgers center for cognitive science (2021-2023)
+* data science fellow @ bluebonnet data (2021)
 
 interests:
 * cloud & solutions architecture
