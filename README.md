@@ -11,8 +11,8 @@ experience:
 
 interests:
 * cloud & solutions architecture
+* devops
 * decision making & game theory
-* data engineering
 
 
 <!---
